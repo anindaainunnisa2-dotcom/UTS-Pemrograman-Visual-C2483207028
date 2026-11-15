@@ -57,13 +57,17 @@ Uang Kembalian = Uang Pembayaran − Total Harga
 ### 6. Dokumentasi Screenshot
 
 #### Tampilan Utama Aplikasi
-![Tampilan Utama](screenshots/tampilan-utama.png)
+<img width="1366" height="768" alt="Tampilan Utama" src="https://github.com/user-attachments/assets/3efad7e5-fb5b-4b7f-9c61-e4e28c1f8588" />
 
 #### Hasil Perhitungan Total Harga
-![Hasil Perhitungan](screenshots/hasil-perhitungan.png)
+<img width="1366" height="768" alt="Hasil Perhitungan Nasi Goreng" src="https://github.com/user-attachments/assets/4c0d9d97-c6b3-40c8-8d7c-64847e438fc7" />
+<img width="1366" height="768" alt="Hasil Perhitungan Mie Ayam" src="https://github.com/user-attachments/assets/5a7458b3-b769-4e45-adae-7e06a07d5b2f" />
+<img width="1366" height="768" alt="Hasil Perhitungan Es Teh" src="https://github.com/user-attachments/assets/8423ee4a-4aca-43b5-b41c-efde63711848" />
+
+
 
 #### Hasil Pembayaran dan Uang Kembalian
-![Hasil Pembayaran](screenshots/hasil-pembayaran.png)
+<img width="1366" height="768" alt="Hasil Perhitungan Nasi Goreng" src="https://github.com/user-attachments/assets/3b07ee4e-ca45-4230-b241-82e3ab592e2a" />
 
 ### 7. Cara Menjalankan Aplikasi
 
